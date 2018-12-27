@@ -77,3 +77,8 @@ may lack addressability for looking for workflow optimizations. That said, if "F
 Modeling a workflow can be done as a list of steps as seen in the above case studies, or as a diagram. Choose a format that suites your needs. However you model workflow should be easily accessible, iteratable,
 and sharable across your team. The best scenario is when the team is contributing to this list and giving feedback and highlighting sore spots in the workflow. This should drive the focus of tool
 maintenance.
+
+## Documentation
+Do this.
+
+The best kind of documentation for a tool is a tool that documents itself. Use tooltips, use description paragraphs. If your documentation is external, insert links into the tool to those documentations. If the external documentation cannot be linked to, add descriptions within the tool for how a consumer can find that documentation. Consider consumer onboarding as part of the workflow for using the tool and every step of a consumer's workflow where they are interacting with the tool is a step where they may not know the next step and need to find it.
